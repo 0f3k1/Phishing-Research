@@ -112,3 +112,8 @@ Sometimes the sender isn’t the red flag.
 Sometimes the red flags are hiding in the details.
 
 P.S. I don't even want to get into how a phishing email ended up being sent from a legitimate guidance counselor's email account... because that could lead into an entirely different rabbit hole.
+
+I also came across an interesting analysis from Forcepoint X-Labs covering a different attack involving ScreenConnect. Although it’s not the same campaign, there are some similar characteristics in how legitimate ScreenConnect software was used for remote access.
+
+Worth checking out if you’re interested:
+https://www.forcepoint.com/blog/x-labs/screenconnect-attack
